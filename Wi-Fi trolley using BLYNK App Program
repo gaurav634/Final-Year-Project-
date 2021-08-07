@@ -25,8 +25,8 @@ const int Ledpin = 10;
 char auth[] = "VET46SGklx-X9UvKbiE_TwpXvkbtHDc4";  
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Prashant";
-char pass[] = "gocorona";
+char ssid[] = "Gaurav B";
+char pass[] = "88888888";
 
 BLYNK_WRITE(V1)
 {
